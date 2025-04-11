@@ -1,5 +1,4 @@
 # Password-Strength-Tester
-🚨 Your Account Is Hacked! 🚨
 Your account is compromised because of a weak password. This is a reality far too common in today’s digital world. As a cybersecurity enthusiast, I wanted to tackle this growing issue and help people create stronger, more secure passwords.
 
 I built a Password Strength Tester that not only evaluates passwords and provides real-time feedback but also includes a powerful new feature:
